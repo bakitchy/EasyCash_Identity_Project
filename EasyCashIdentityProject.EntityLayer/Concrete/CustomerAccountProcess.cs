@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EasyCashIdentityProject.EntityLayer.Concrete.CustomerAccounts
+namespace EasyCashIdentityProject.EntityLayer.Concrete
 {
     /*müşterinin hesap hareketlerini tutar*/
     public class CustomerAccountProcess
